@@ -38,6 +38,17 @@ activities = {
         "schedule": "Mondays, Wednesdays, Fridays, 2:00 PM - 3:00 PM",
         "max_participants": 30,
         "participants": ["john@mergington.edu", "olivia@mergington.edu"]
+    },
+    "Gaming Club": {
+        "description": "Play video games, explore game design, and compete in friendly tournaments",
+        "schedule": "Friday, November 6, 2026, 3:30 PM - 5:00 PM",
+        "max_participants": 20,
+        "participants": [
+            "alex@mergington.edu",
+            "jordan@mergington.edu",
+            "taylor@mergington.edu",
+            "casey@mergington.edu"
+        ]
     }
 }
 
